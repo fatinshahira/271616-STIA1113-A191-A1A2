@@ -13,4 +13,6 @@ When im doing this assignment, I have a learn about how to calculate car loan ca
 
 # Flow chart
 
+![flowchart](https://user-images.githubusercontent.com/55240830/68539876-cada5100-03c4-11ea-844b-4d0a99eecd2a.jpg)
+
 
