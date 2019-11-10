@@ -1,6 +1,6 @@
 # Student Info
 
-Matric: 271616
+Matrix: 271616
 Name: Nurul Fatin Shahira binti Rahim
 
 # Introduction
